@@ -93,7 +93,7 @@ public class Magpie5
 		}
 		return response;
 	}
-	
+
 	/**
 	 * Take a statement with "I want to <something>." and transform it into 
 	 * "What would it mean to <something>?"
@@ -284,7 +284,7 @@ public class Magpie5
 	private String [] randomResponses = {"Interesting, tell me more",
 			"Hmmm.",
 			"Do you really think so?",
-			"You don't say."
+			"You don't say.", "Elaborate.", "Really?", "Wow.", "Oh, ok."
 	};
 	
 }
